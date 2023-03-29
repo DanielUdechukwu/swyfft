@@ -1,0 +1,19 @@
+.tiny{
+  font-size: .60rem;
+}
+
+.small{
+  font-size: .90rem;
+}
+
+.md{
+  font-size: 1.05rem;
+}
+
+.phone-width{
+  width: 21rem;
+}
+
+.block{
+  display: block !important;
+}
